@@ -38,5 +38,5 @@
 
 ## **LICENCIA**
 
-> ## **Este proyecto no tiene una licencia específica, pero siéntete libre de usarlo y modificarlo para tus propios fines de aprendizaje.**
+> ## **Este proyecto no tiene una licencia específica, siéntete libre de usarlo y modificarlo para tus propios fines de aprendizaje.**
 <br>
