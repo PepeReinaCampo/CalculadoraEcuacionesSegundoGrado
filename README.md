@@ -2,7 +2,7 @@
     <img src="imagen/calculin.jpg" style="border-radius: 25px; width: 95%;">
 </div>
 
-<small>Imagen generado por la inteligencia artificial generativa copilot.<small> 
+<small>Imagen generada por la inteligencia artificial generativa copilot.<small> 
 
 # **CODIGO PYTHON PARA UNA CALCULADORA DE ECUACIONES DE SEGUNDO GRADO**
 
